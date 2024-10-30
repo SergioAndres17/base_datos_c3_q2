@@ -14,5 +14,5 @@ Se requiere crear una consulta para:
         persona p
     ORDER BY p.nombre
 
-![caso1 filtrado](imagenes/caso1.png)
 ![caso1 sin filtro](imagenes/caso1_sinfiltro.png)
+![caso1 filtrado](imagenes/caso1.png)
